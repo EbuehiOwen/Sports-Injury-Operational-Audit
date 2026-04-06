@@ -11,7 +11,7 @@ Strategic analysis of 15,000 medical records and a €27.7M budget to evaluate f
 * **Demographic Risk:** Found that **Amateur athletes** account for **70.7%** of injury volume, highlighting a massive opportunity for preventative training ROI.
 
 ## 🛠️ Tech Stack
-* **Excel:** Data Visualization & UX Design.
+* **Ms Excel:** Data Visualization & UX Design.
 * **DAX:** Custom measures for Spend Efficiency & Recurrence Rates.
 * **Power Query:** Star Schema modeling and ETL.
 
