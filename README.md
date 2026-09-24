@@ -26,4 +26,4 @@ Strategic analysis of 15,000 medical records and a €27.7M budget to evaluate f
 ## 📂 Repository Structure
 * `/Data/`: Star Schema source files.
 * `/Dashboard/`: Excel file.
-* `/Report/`: Full 2-page S.T.A.R. Technical Report.
+* `sports report.pdf`: Full 2-page S.T.A.R. Technical Report.
